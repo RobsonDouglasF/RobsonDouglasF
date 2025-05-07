@@ -1,4 +1,4 @@
-<p align="left">Olá, sou Robson Douglas.<br><br>Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento frontend. Atualmente, estou aprofundando meus conhecimentos em JavaScript, TypeScript, HTML, CSS e Tailwind, visando criar interfaces web eficientes e responsivas.<br><br>Após concluir meus estudos em TypeScript e Tailwind, pretendo me especializar em Node.js, Next.js, React e React Native para expandir minha expertise em desenvolvimento de aplicações completas.<br><br>Estou sempre em busca de novos desafios e oportunidades de aprendizado.</p>
+<p align="left">Olá, sou Robson Douglas.<br><br>Estou cursando Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento frontend. Atualmente, estou aprofundando meus conhecimentos em React, JavaScript, TypeScript, HTML, CSS e Tailwind, visando criar interfaces web eficientes e responsivas.<br><br>Após concluir meus estudos de Front-End pretendo seguir aprendo tambem o Back-End para expandir minha expertise em desenvolvimento de aplicações completas e me tornar Full-Stack.<br><br>Estou sempre em busca de novos desafios e oportunidades de aprendizado.</p>
 
 ###
 
