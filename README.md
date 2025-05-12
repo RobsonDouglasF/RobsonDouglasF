@@ -1,4 +1,4 @@
-<p align="left">Olá, sou Robson Douglas.<br><br>Estou cursando Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento frontend. Atualmente, estou aprofundando meus conhecimentos em React, Nextjs, JavaScript, TypeScript, HTML, CSS e Tailwind, visando criar interfaces web eficientes e responsivas.<br><br>Após concluir meus estudos de Front-End pretendo seguir aprendo tambem o Back-End para expandir minha expertise em desenvolvimento de aplicações completas e me tornar Full-Stack.<br><br>Estou sempre em busca de novos desafios e oportunidades de aprendizado.</p>
+<p align="left">Olá, sou Robson Douglas.<br><br>Estou cursando Análise e Desenvolvimento de Sistemas (ADS) com foco em desenvolvimento frontend. Atualmente, estou aprofundando meus conhecimentos em React, JavaScript, TypeScript, HTML, CSS e Tailwind, visando criar interfaces web eficientes e responsivas.<br><br>Após concluir meus estudos de Front-End pretendo seguir aprendo tambem o Back-End para expandir minha expertise em desenvolvimento de aplicações completas e me tornar Full-Stack.<br><br>Estou sempre em busca de novos desafios e oportunidades de aprendizado.</p>
 
 ###
 
@@ -38,8 +38,6 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
